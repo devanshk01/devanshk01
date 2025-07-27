@@ -44,103 +44,69 @@
 <p align="left">
 <p align="center">
   <a href="https://linkedin.com/in/devanshk01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshk01" height="36" width="48" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="devanshk01" height="50" width="50" />
+  </a>
  <a href="https://instagram.com/devanshk_01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshk_01" height="36" width="48" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="devanshk_01" height="50" width="50" />
+  </a>
   <a href="https://x.com/devanshk01" target="blank">
-    <img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="devanshk01" height="38" width="38" />
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.leetcode.com/devanshk_01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshk_01" height="36" width="48" />
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://codeforces.com/profile/devanshk_01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshk_01" height="36" width="45" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/devanshk_01" target="blank">
-    <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751118824499" alt="devanshk_01" height="36" width="36" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://auth.geeksforgeeks.org/user/devanshk_01/profile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshk_01/profile" height="36" width="43" />&nbsp;&nbsp;
-  
-  <a href="https://www.hackerrank.com/devanshk_01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanshk_01" height="36" width="48" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="devanshk01" height="50" width="50" />
   </a>
-
+  <a href="https://github.com/devanshk01" target="blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="devanshk01" height="50" width="50" />
   </a>
-
    <a href="https://stackoverflow.com/users/devanshk01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devanshk01" height="36" width="48" />
-  </a>&nbsp;&nbsp;
-</p>
-
-</p>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="devanshk01" height="50" width="50" />
+  </a>
 
 ###
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50" />
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50" />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50" />
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" />
+  </a>
+  <a href="https://www.latex-project.org/get/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="latex" width="50" height="50" />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50" />
+  </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="50" height="50" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50" />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50" />
+  </a>
+  <a href="https://notion.so" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="notion" width="50" height="50" />
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="40" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50" />
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" height="50" />
   </a>
 </p>
  </p>
