@@ -1,6 +1,16 @@
 <h1 align="center">Hey, I'm Devansh🧃</h1>
 <h3 align="center">🚀 Passionate CS & Math undergrad | Building deep expertise in algorithms, systems, and software | Obsessed with mastering code, logic & real-world problem solving</h3>
 
+### 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshk01&label=Profile%20views&color=0e75b6&style=flat" alt="devanshk01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshk01" alt="devanshk01" /></a> </p>
@@ -26,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshk01&show_icons=true&locale=en" alt="devanshk01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshk01&" alt="devanshk01" /></p>
+
