@@ -11,6 +11,29 @@
 
 ###
 
+### 🔍 About Me
+
+- 🛠️ I’m currently working on: **Full-stack projects, DSA, and systems fundamentals**  
+
+- 🤝 I’m looking to collaborate on: **Development projects and problem-solving tools** 
+
+- 🧠 I’m looking for help with: **Open-source contributions and scalable architecture** 
+
+- 🌱 I’m currently learning: **Data Science, Full-Stack Development, Advanced DSA, System Design, Big data**
+
+- 💬 Ask me about: **Algorithmic problem solving, low-level systems, database internals, system architecture, distributed systems, and applied math in CS**
+
+- 📫 How to reach me: **devanshkukadia06@gmail.com**
+
+- 📂 All of my projects are available at: [github.com/devanshk01](https://github.com/devanshk01)
+
+- 📝 I regularly write articles on: *Coming soon...*
+
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fzRzKcdrvgeun8P86aHg-7aPgVkcTJwi/view?usp=drive_link)
+
+- ⚡ Fun fact: *I can debug code better than I debug life 💻🧠*
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshk01&label=Profile%20views&color=0e75b6&style=flat" alt="devanshk01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshk01" alt="devanshk01" /></a> </p>
