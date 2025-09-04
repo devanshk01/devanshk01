@@ -27,12 +27,6 @@
 
 - 📂 All of my projects are available at: [github.com/devanshk01](https://github.com/devanshk01)
 
-- 📝 I regularly write articles on: *Coming soon...*
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fzRzKcdrvgeun8P86aHg-7aPgVkcTJwi/view?usp=drive_link)
-
-- ⚡ Fun fact: *I can debug code better than I debug life 💻🧠*
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
