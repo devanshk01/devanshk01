@@ -1,5 +1,7 @@
 <!------ Heading ------>
 
+<img src="github-header-banner.png">
+
 <h1 align="center">Hello, World! I am Devansh👋🏻</h1>
 <h3 align="center">Student of Mathematics & Computing | Loves building, breaking & fixing code</h3>
 
