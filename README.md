@@ -1,7 +1,7 @@
 <!------ Heading ------>
 
-<h1 align="center">Hey, I'm Devansh🧃</h1>
-<h3 align="center">CS + Math student | Loves building, breaking & fixing code</h3>
+<h1 align="center">Hello, World! I am Devansh👋🏻</h1>
+<h3 align="center">Student of Mathematics & Computing | Loves building, breaking & fixing code</h3>
 
 <!------ horizontal divider(gradiant) ------>
 
@@ -11,18 +11,18 @@
 
 <!------ Programmer GIF ------>
 
-<img align="right" height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVyMGcxNG9rYzljcWVjMXF5cmU5Y3ppeGg0emw5Z3B1YjFkMjZoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+<img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG90cGYxcW41eHF3OWNja3VqMXdyNDI0eGVsY2FpZ3JvMnFiN2h6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qnlIw1jKhQhZnim1n0/giphy.gif"  />
 
 <!------ About me ------>
 
-### 🔍 About Me
+### About me...
 
-- 🛠️ Building in **web dev, algorithms, and systems**
-- 🌱 Currently diving into **system design, big data, and exploratory data science**
-- 🤝 Always up for **collabs on projects that are fun or actually useful**
-- 🙌 Looking for help with **open-source contributions and scalable architecture**
-- 🎲 Outside code: **I cube, play chess, and get lost in astrophysics & astronomy**
-- 📂 My work lives here: [GitHub](https://github.com/devanshk01)
+- I'm currently working on Data Structures & Algorithms, Machine Learning, and Web Development.
+- I've explored Competitive Programming, DBMS, Operating Systems, Big Data Processing, and Exploratory Data Analysis.
+- I have strong foundations in Mathematics subjects like, Optimization, Numerical & Computational methods, Modelling & Simulation, Mathematical Statistics etc.
+- I like, and I am comfortable in connecting mathematical ideas to real life problems, and finding efficient solutions using computational or analytical methods.
+- In future, I would like to explore Deep Learning, .
+- Planning to contribute more actively to open source and collaborative projects.
 
 ###
 
@@ -38,21 +38,38 @@
 
 <!------ Social Media links ------>
 
-<h3 align="right">🫱🏻‍🫲🏻 Connect with me</h3>
-<p align="right">
-<p align="right">
+### Let's Connect...
+
   <a href="https://linkedin.com/in/devanshk01" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="devanshk01" height="35" width="35" />
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="devanshk01" height="35" width="35" />
   </a>
+  
+ 
  <a href="https://instagram.com/devanshk_01" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="devanshk_01" height="35" width="35" />
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="devanshk_01" height="35" width="35" />
   </a>
+
+  
   <a href="https://x.com/devanshk01" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="devanshk01" height="35" width="35" />
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="devanshk01" height="35" width="35" />
   </a>
+
+  
   <a href="https://github.com/devanshk01" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="devanshk01" height="35" width="35" />
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="devanshk01" height="35" width="35" />
   </a>
+  
+
+<a href="https://www.reddit.com/user/Superb_Breakfast_563/" target="blank">
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="devanshk01" height="35" width="35" />
+  </a>
+
+
+  <a href="https://discord.com/users/832945899062951937" target="blank">
+	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="devanshk01" height="35" width="35" />
+  </a>
+
+   
    <a href="https://stackoverflow.com/users/devanshk01" target="blank">
 	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="devanshk01" height="35" width="35" />
   </a>
