@@ -1,6 +1,6 @@
 <!------ Heading ------>
 
-<img src="github-header-banner (1).png" width="100%">
+<img src="github-header-banner (2).png" width="100%">
 
 <!------ horizontal divider(gradiant) ------>
 
@@ -43,10 +43,8 @@
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="devanshk01" height="35" width="35" />
   </a>
   
- 
- <a href="https://instagram.com/devanshk_01" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="devanshk_01" height="35" width="35" />
-  </a>
+![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069&link=https%3A%2F%2Finstagram.com%2Fdevanshk_01)
+
 
   
   <a href="https://x.com/devanshk01" target="blank">
