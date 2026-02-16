@@ -1,15 +1,8 @@
-<!------ Heading ------>
+<!------ Header Banner ------>
+
 ![Header](banner.png)
 
-<!------ horizontal divider(gradiant) ------>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-###
-
-<!------ Programmer GIF ------>
-
-<!-- <img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG90cGYxcW41eHF3OWNja3VqMXdyNDI0eGVsY2FpZ3JvMnFiN2h6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qnlIw1jKhQhZnim1n0/giphy.gif"  /> -->
+---
 
 <!------ About me ------>
 
@@ -22,17 +15,13 @@
 - In future, I would like to explore Deep Learning, .
 - Planning to contribute more actively to open source and collaborative projects.
 
-###
-
-<!------ horizontal divider(gradiant) ------>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+---
 
 <!------ Profile views ------>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshk01&label=Profile%20views&color=0e75b6&style=plastic" alt="devanshk01"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshk01&label=Profile%20views&color=0e75b6&style=plastic" alt="devanshk01"/> </p>
 
-###
+--- -->
 
 <!------ Social Media links ------>
 
@@ -43,33 +32,28 @@
   </a>
 
 <!-- Instagram -->
-![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069&link=https%3A%2F%2Finstagram.com%2Fdevanshk_01)
 
+![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069&link=https%3A%2F%2Finstagram.com%2Fdevanshk_01)
 
 ![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit&logoColor=white&logoSize=auto&labelColor=%23FF4500&color=%23FF4500&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSuperb_Breakfast_563%2F)
 
-
-  
   <a href="https://x.com/devanshk01" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="devanshk01" height="35" width="35" />
   </a>
 
-  
   <a href="https://github.com/devanshk01" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="devanshk01" height="35" width="35" />
   </a>
-  
+
 
 <a href="https://www.reddit.com/user/Superb_Breakfast_563/" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="devanshk01" height="35" width="35" />
   </a>
 
-
   <a href="https://discord.com/users/832945899062951937" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="devanshk01" height="35" width="35" />
   </a>
 
-   
    <a href="https://stackoverflow.com/users/devanshk01" target="blank">
 	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="devanshk01" height="35" width="35" />
   </a>
@@ -132,6 +116,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!------ GitHub Stats ------>
+
 ### 📊 My Stats
 
 <!-- Stats Graph -->
