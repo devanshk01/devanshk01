@@ -1,6 +1,5 @@
 <!------ Heading ------>
-
-<img src="github-header-banner (2).png" width="100%">
+![Header](banner.png)
 
 <!------ horizontal divider(gradiant) ------>
 
@@ -42,8 +41,12 @@
   <a href="https://linkedin.com/in/devanshk01" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="devanshk01" height="35" width="35" />
   </a>
-  
+
+<!-- Instagram -->
 ![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069&link=https%3A%2F%2Finstagram.com%2Fdevanshk_01)
+
+
+![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit&logoColor=white&logoSize=auto&labelColor=%23FF4500&color=%23FF4500&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSuperb_Breakfast_563%2F)
 
 
   
