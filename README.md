@@ -31,11 +31,17 @@
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="devanshk01" height="35" width="35" />
   </a>
 
+<!-- Linkedin -->
+
+
 <!-- Instagram -->
+[![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069)](https://instagram.com/devanshk_01)
 
-![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069&link=https%3A%2F%2Finstagram.com%2Fdevanshk_01)
+<!-- Reddit -->
+[![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit&logoColor=white&logoSize=auto&labelColor=%23FF4500&color=%23FF4500)](https://www.reddit.com/user/Superb_Breakfast_563/)
 
-![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit&logoColor=white&logoSize=auto&labelColor=%23FF4500&color=%23FF4500&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FSuperb_Breakfast_563%2F)
+<!-- Discord -->
+<!-- [![Static Badge](https://img.shields.io/badge/Discord-Blue?style=flat-square&logo=discord&logoColor=white&logoSize=auto&labelColor=%235865F2&color=%235865F2)]() -->
 
   <a href="https://x.com/devanshk01" target="blank">
 	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="devanshk01" height="35" width="35" />
