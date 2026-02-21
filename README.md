@@ -27,136 +27,29 @@
 
 ### Let's Connect...
 
-  <a href="https://linkedin.com/in/devanshk01" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-<!-- Linkedin -->
-
-
-<!-- Instagram -->
-[![Static Badge](https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&labelColor=%23FF0069&color=%23FF0069)](https://instagram.com/devanshk_01)
-
-<!-- Reddit -->
-[![Static Badge](https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit&logoColor=white&logoSize=auto&labelColor=%23FF4500&color=%23FF4500)](https://www.reddit.com/user/Superb_Breakfast_563/)
-
-<!-- Discord -->
-<!-- [![Static Badge](https://img.shields.io/badge/Discord-Blue?style=flat-square&logo=discord&logoColor=white&logoSize=auto&labelColor=%235865F2&color=%235865F2)]() -->
-
-  <a href="https://x.com/devanshk01" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-  <a href="https://github.com/devanshk01" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-
-<a href="https://www.reddit.com/user/Superb_Breakfast_563/" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-  <a href="https://discord.com/users/832945899062951937" target="blank">
-	<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-   <a href="https://stackoverflow.com/users/devanshk01" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="devanshk01" height="35" width="35" />
-  </a>
-
-###
+<a href="https://www.linkedin.com/in/devanshk01/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD5UlEQVR4nO2du49NURTG14wwiHhE8A8gHp3Go9JIRDEzYgatRggFiVLvEQmVQkRkvKKl0UpE6Ij3YxDRKESEBAl%2BsuWIiZyZuWffdfZZe876Jbe86%2Fu%2B%2FeXec87sOfeIOI7jOI7jOI7jZAAwA9gBXAaeAl9wvhRrEdZke1ijVGVsA0abTp8BL4GtdRYxDTjRdMoMOQ701lGIlxHPsTq%2BppzuGNQ8gIfvQ6c7Xqkc6IuzKUeHYY1CriiZceCiRiHPm04xhXiqUcjnplNMIT5rFOIo4oUYwwsxhhdiDC%2FEGF6IMSwU8gjYCywDZhWv5cD%2BNl7jSMOFnJ7o7zfATGCEFiENFnID6Olwn%2BUOLUEaLGRjBY1%2BWoI0WMicChoLaAnSYCHzKmjMoyVIg4VsqaCxmZYgDRZyOxywO5jfC9ykJUiDhVD8j9LsCWb3AWdpEdJwIX%2F3kg8Cq0M5xWslsA94RssQA4U4Y%2FBCjOGFGMMLMYYXYgwvxBiNFaKlI3p%2BHwAngYHiFHxJ8ZfmRcAqYBNwFLhHjVTNUyWgqnBNc34VF6frKs5YAZwHfsbm18ozWcDahGuYcx9YW%2FX9%2F83aALyJXQONPBMFrFVYec65sBtZ9b3jzFsI3I1dh27zjBewdmHFOac62amsODNsDzyMbqGLPGVmkggrzumt%2Bp4O5y7VuLlVw0gS4doCKAIciG5CK08q4doCKFLcTfY6ug0vRB%2FgUHQbXsg%2Fin2YPumS4kLyhxcSAbAeuAp8HHOh%2BA44E67Wu5h7K9W6lIknEdYOABye5Er7e9i1jJx9JNW6lIknEdYMAOzq0Gb4xOyMmD%2BUal3KxJMIK86ZD3yoYPU9MLeixppU61ImnkRYcc6eCLu7K2osTrUuZeJJhBXnXI%2Bwey3ijC3JupSJJxFWnPM2wu7biho9qdalTDyJsOKcbxF2v1pdl8aE654zGVZ1zAWUzPxq65gLKJn51dYxF1Ay86utYy6gZOZXW8dcQMnMr7aOuYCSmV9tHXMBJTO%2F2jrmAkpmfrV1zAWUzPxq65gLKJn51dYxF1Ay86utoybslOOFGMMLMYYXMgUL8Qe66PFJo5DW%2FepbjTzRKORSnQ5bxohGIeFBu44OQxqFTAdeKBlqM6NqT5AOTz1uOk3mhFvn%2BlXKGFNKeOqxE8cR1TLG%2FAL1sUhDbf5kHK3r91f%2BFjPox5SOCE8PGqitiJID%2FXB4tms4t%2FaLxz%2BENXgMXChum56epAzHcRzHcRzHcRzpjt%2BMLk8HVCL1xAAAAABJRU5ErkJggg%3D%3D&logoColor=white&labelColor=%230077B5" /></a>
+<a href="https://instagram.com/devanshk_01" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23FF0069" /></a>
+<a href="https://www.reddit.com/user/Superb_Breakfast_563/" target="_blank"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500&color=%23FF4500" /></a>
+<a href="https://x.com/devanshk01" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=%23000000" /></a>
+<a href="https://github.com/devanshk01" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" /></a>
+<a href="https://stackoverflow.com/users/devanshk01" target="_blank"><img src="https://img.shields.io/badge/StackOverFlow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F58025" /></a>
 
 <!------ Languages and Tools ------>
 
-<h3 align="right">💻 Languages and Tools</h3>
-<p align="right">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" height="35" width="35" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" height="35" width="35" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" height="35" width="35" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" height="35" width="35" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" height="35" width="35" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="35" width="35" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="35" width="35" />
-  </a>
-  <a href="https://www.latex-project.org/get/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="latex" height="35" width="35" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" height="35" width="35" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" height="35" width="35" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" height="35" width="35" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" height="35" width="35" />
-  </a>
-  <a href="https://notion.so" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="notion" height="35" width="35" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" height="35" width="35" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="35" width="35" />
-  </a>
-</p>
- </p>
+### Things I code with...
 
-<!--horizontal divider(gradiant)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<!------ GitHub Stats ------>
-
-### 📊 My Stats
-
-<!-- Stats Graph -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=devanshk01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph" /> -->
-
-<!-- Streak Graph  -->
-<div align="left">
-    <img src="https://streak-stats.demolab.com?user=devanshk01&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-</div>
-
-<!-- languages Graph -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshk01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2&custom_title=Language%20Statistics" height="180" alt="languages graph" /> -->
-
-<!-- Activity Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshk01&radius=16&theme=redical&area=true&order=5&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  /> -->
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=devanshk01&theme=radical&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="80" alt="trophy graph" /> <br>
-</div>
-
-###
-
-<!--horizontal divider(gradiant)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<!-- ### 🎮 Pac-Man ate My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devanshk01/devanshk01/output/pacman-contribution-graph.svg">
-</picture> -->
-
-<!--horizontal divider(gradiant)-->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="35" width="35" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="35" width="35" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="35" width="35" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="35" width="35" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="35" width="35" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="35" width="35" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="35" width="35" /></a>
+<a href="https://www.latex-project.org/get/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" height="35" width="35" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="35" width="35" /></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" height="35" width="35" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="35" width="35" /></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="35" width="35" /></a>
+<a href="https://notion.so" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" height="35" width="35" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="35" width="35" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="35" width="35" /></a>
