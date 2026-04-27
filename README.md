@@ -67,3 +67,9 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+
+### My GitHub Stats:
+![devanshk01's Stats](https://github-readme-stats.vercel.app/api?username=devanshk01&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![devanshk01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devanshk01&theme=tokyonight&hide_border=false)
+![devanshk01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshk01&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
