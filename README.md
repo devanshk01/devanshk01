@@ -14,8 +14,8 @@
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5?style=flat&labelColor=%230077B5)](https://www.linkedin.com/in/devanshk01/)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=flat&logo=instagram&logoColor=white&labelColor=%23FF0069)](https://instagram.com/devanshk_01) -->
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5?style=flat&labelColor=%230077B5)](https://www.linkedin.com/in/devanshk01/)
 [![Reddit](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&logoColor=white&labelColor=%23FF4500&color=%23FF4500)](https://www.reddit.com/user/Superb_Breakfast_563/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white&labelColor=%23000000)](https://x.com/devanshk01)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white&labelColor=%23181717)](https://github.com/devanshk01)
